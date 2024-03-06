@@ -1,0 +1,23 @@
+// -128 ~ 127의 범위를 갖는 sbyte형
+sbyte sbyteVariable = 127;
+//sbyte sbyteVariable = 128;
+
+Console.WriteLine(sbyteVariable);
+
+sbyte sbyteA = 64;
+sbyte sbyteB = 64;
+Console.WriteLine(sbyteA + sbyteB);
+
+//sbyte sbyteC = sbyteA + sbyteB;
+sbyte sbyteC = (sbyte)(sbyteA + sbyteB);
+int sbyteD = sbyteA + sbyteB;
+int sbyteE = (int)sbyteA + sbyteB;
+
+
+Console.WriteLine(sbyteA + sbyteB);
+Console.WriteLine(sbyteC);
+Console.WriteLine(sbyteD);
+Console.WriteLine(sbyteE);
+
+
+Console.ReadLine();
