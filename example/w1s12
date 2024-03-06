@@ -1,0 +1,29 @@
+using System;
+
+namespace ConsoleApp1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+            
+            if(args.Length <= 0) {
+                return;
+
+            }
+            foreach (var arg in args)
+            {
+                int num = Int32.Parse(arg);
+
+                if (num > 0)
+                    Console.WriteLine( num + ": 양수");
+                else if (num < 0)               // num > 0 지 않다.
+                    Console.WriteLine( num + ": 음수");
+                else                            // num > 0 지 않으며 num < 0 지 않다.
+                    Console.WriteLine(num + "영");
+
+            }
+        }
+    }
+}
