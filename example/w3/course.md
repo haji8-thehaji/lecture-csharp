@@ -19,8 +19,12 @@
 
 * step up
 ```
+1. readLine;
+    input (1~10) : ${max_num}
+2.random;
+    Random rand = new Random(); 
+    int a = rand.Next(1, 5);
 
-input (1~10) : ${max_num}
 max_num = 5
 *
 **
