@@ -8,6 +8,15 @@ uint in_money = 0;
 
 while (true)
 {
+    printVending();
+    insertMoney();
+    printInCash(in_money);
+    selectDrink();
+    printInCash(in_money);
+}
+void insertMoney()
+{
+    
     // 1.  금액 투입
     Console.WriteLine("금액을 투입하여 주세요");
     Console.WriteLine("카드 or 현금");
@@ -38,11 +47,11 @@ while (true)
             in_money = in_money + 1000;
             break;
     }
-
-
-    // 2. 금액 표시
-    Console.WriteLine($"잔액 : {in_money}");
-
+}
+void printVending()
+{
+}
+void selectDrink(){
     // 3. 음료 고르기
     Console.WriteLine("음료를 고르세요");
     Console.WriteLine("코코아 2500원    : 1");
@@ -59,8 +68,8 @@ while (true)
         case 9:
             //추가 금액 투입
             break;
-        case 0: 
-            // 동전 반환 구매 취소
+        case 0:
+        // 동전 반환 구매 취소
         case (int)DRINK.HOT_CHOCO:
             if (in_money > PAY_HOT_CHOCO)
             {
@@ -86,19 +95,22 @@ while (true)
             }
             break;
         case (int)DRINK.COFFEE:
-            if (in_money > PAY_COFFEE) {
+            if (in_money > PAY_COFFEE)
+            {
                 in_money = in_money - PAY_COFFEE;
                 success = true;
                 Console.WriteLine("커피가 나왔습니다.");
             }
             break;
     }
+
+}
+void printInCash(uint in_money)
+{
+
     // 2. 금액 표시
     Console.WriteLine($"잔액 : {in_money}");
-
-    // 4. 잔돈 표시
 }
-
 
 enum PAY_INPUT
 {
@@ -119,7 +131,7 @@ enum PAY_RETURN
 }
 enum DRINK
 {
-    HOT_CHOCO =1,
+    HOT_CHOCO = 1,
     HOT_MILK,
     WARTER,
     COFFEE
