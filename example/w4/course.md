@@ -86,6 +86,7 @@ public class Person
 ```
 
 
-
+## 코드 작성 ai 도입
+ref: https://learn.microsoft.com/ko-kr/visualstudio/ide/visual-studio-github-copilot-extension?view=vs-2022
 
   
