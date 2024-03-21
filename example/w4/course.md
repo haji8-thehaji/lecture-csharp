@@ -35,6 +35,7 @@ https://wikidocs.net/227157
 
 
 ## 시간 출력
+https://learn.microsoft.com/ko-kr/dotnet/api/system.diagnostics.stopwatch?view=net-8.0
 ```
     var watch = System.Diagnostics.Stopwatch.StartNew();
     watch.Stop();
