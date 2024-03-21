@@ -62,6 +62,9 @@ MAX_NUM = 9
 ```
 
 ```
+Random rand = new Random(); 
+int a = rand.Next(1, 5);
+
 List<List<string>> myList = new List<List<string>>();
 myList.Add(new List<string> { "a", "b" });
 myList.Add(new List<string> { "c", "d", "e" });
