@@ -30,6 +30,8 @@ input (2~9) : 9
 MAX_NUM = 9
 최대 단수를 9단으로 설정하였습니다.
 ```
+### c#의 역사
+https://wikidocs.net/227157
 
 ### 3. class 학습
 ```
