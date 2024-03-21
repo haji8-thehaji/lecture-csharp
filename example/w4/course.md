@@ -33,6 +33,15 @@ MAX_NUM = 9
 ### c#의 역사
 https://wikidocs.net/227157
 
+
+## 시간 출력
+```
+    var watch = System.Diagnostics.Stopwatch.StartNew();
+    watch.Stop();
+    var elapsedMs = watch.ElapsedMilliseconds;
+    Console.WriteLine("실행시간은 {0}ms\n", elapsedMs);
+```
+
 ### 3. class 학습
 ```
 
