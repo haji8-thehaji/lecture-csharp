@@ -2,9 +2,12 @@
 * https://wikidocs.net/227151
 ## 복습 : 1~100 중 소수 구하기
 
+---
+---
+# 수업
+
 ### 구구단 게임 
 *순위 기록 시스템
-
 ### 파일 읽고 쓰기 
 * https://learn.microsoft.com/ko-kr/troubleshoot/developer/visualstudio/csharp/language-compilers/read-write-text-file
 
