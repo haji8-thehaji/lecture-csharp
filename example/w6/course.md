@@ -6,6 +6,8 @@
 
 ## 과제: 구구단 랭킹 기능 추가
 * 파일 읽고 쓰기
+* example/w5/구구단 랭킹.cs
+* [https://github.com/haji8-thehaji/lecture-csharp/blob/main/example/w5/%EA%B5%AC%EA%B5%AC%EB%8B%A8%20%EB%9E%AD%ED%82%B9.cs] 
 
 
 ## 수업 : GUI 프로그래밍 기초 
