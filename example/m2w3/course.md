@@ -16,8 +16,11 @@
 #### 시간 복잡도, 공간 복잡도
 * https://velog.io/@amberjack/C-%EB%AC%B8%EB%B2%95-5%EC%A3%BC%EC%B0%A8-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B8%B0%EC%B4%88
 ## Array List
-## Queue
-## Stack
+## Queue / Stack
+![image](https://miro.medium.com/v2/resize:fit:1280/format:webp/0*SESFJYWU5a-3XM9m.gif)
+![image](https://miro.medium.com/v2/resize:fit:1280/format:webp/0*E33E-AjyAUTFjVmM.gif)
+
+
 ## Bubble sort / Quick sort 등등
 * https://dev.to/christinamcmahon/common-sorting-algorithms-in-javascript-58a7
 #### Bubble Sort
