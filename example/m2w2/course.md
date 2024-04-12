@@ -17,10 +17,11 @@
 * https://dev.to/christinamcmahon/common-sorting-algorithms-in-javascript-58a7
 #### Bubble Sort
 * Best: O(N), Worst: O(N^2)
-* ![image](https://github.com/haji8-thehaji/lecture-csharp/assets/143566329/1483bed6-a6be-4ecc-a34b-d30a0e119930)
+* ![image](https://res.cloudinary.com/practicaldev/image/fetch/s--9WGwov3j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/3m00apvur6vmr44yjq1a.gif)
 #### Quick Sort
-Best/Average: O(N Log N), Worst: O(N^2)
-![image](https://github.com/haji8-thehaji/lecture-csharp/assets/143566329/84c085e6-c49f-4f4a-b3d7-b367d1bbde82)
+* Best/Average: O(N Log N), Worst: O(N^2)
+![image](https://res.cloudinary.com/practicaldev/image/fetch/s--LokyoN4O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9sl7t3z56s02oy4smbzm.gif)
 
 
 # SQL 문제 풀기 ( support by 프로그래머스)
+* https://school.programmers.co.kr/learn/courses/30/parts/17042
