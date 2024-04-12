@@ -10,6 +10,11 @@
 * https://wikidocs.net/227376
 
 # 기초 알고리즘
+
+## Big-O 표기법
+![image](https://github.com/haji8-thehaji/lecture-csharp/assets/143566329/6bc3a919-cea4-4675-ad77-989e4a331aa9)
+#### 시간 복잡도, 공간 복잡도
+* https://velog.io/@amberjack/C-%EB%AC%B8%EB%B2%95-5%EC%A3%BC%EC%B0%A8-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B8%B0%EC%B4%88
 ## Array List
 ## Queue
 ## Stack
