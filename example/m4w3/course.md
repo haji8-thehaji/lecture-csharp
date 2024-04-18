@@ -30,6 +30,8 @@
 #### Quick Sort
 * Best/Average: O(N Log N), Worst: O(N^2)
 * ![image](https://res.cloudinary.com/practicaldev/image/fetch/s--LokyoN4O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9sl7t3z56s02oy4smbzm.gif)
+
+* ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sorting_quicksort_anim.gif/220px-Sorting_quicksort_anim.gif)
 * https://gmlwjd9405.github.io/2018/05/10/algorithm-quick-sort.html
 * https://modoocode.com/248
   
