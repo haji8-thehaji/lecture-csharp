@@ -26,11 +26,12 @@
 #### Bubble Sort
 * Best: O(N), Worst: O(N^2)
 * ![image](https://res.cloudinary.com/practicaldev/image/fetch/s--9WGwov3j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/3m00apvur6vmr44yjq1a.gif)
-* ![버블정렬](https://gmlwjd9405.github.io/2018/05/06/algorithm-bubble-sort.html)
+* https://gmlwjd9405.github.io/2018/05/06/algorithm-bubble-sort.html
 #### Quick Sort
 * Best/Average: O(N Log N), Worst: O(N^2)
 * ![image](https://res.cloudinary.com/practicaldev/image/fetch/s--LokyoN4O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9sl7t3z56s02oy4smbzm.gif)
-* ![퀵정렬](https://gmlwjd9405.github.io/2018/05/10/algorithm-quick-sort.html)
-
+* https://gmlwjd9405.github.io/2018/05/10/algorithm-quick-sort.html
+* https://modoocode.com/248
+  
 # SQL 문제 풀기 ( support by 프로그래머스)
 * https://school.programmers.co.kr/learn/courses/30/parts/17042
