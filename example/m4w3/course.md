@@ -34,6 +34,10 @@
 * ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sorting_quicksort_anim.gif/220px-Sorting_quicksort_anim.gif)
 * https://gmlwjd9405.github.io/2018/05/10/algorithm-quick-sort.html
 * https://modoocode.com/248
-  
+
+## 이진 검색(BINARY SEARCH)
+* 이진 검색은 요소가 오름차순 또는 내림차순으로 정렬된 배열에서 검색하는 알고리즘
+* https://hongs-coding.tistory.com/19
+* 
 # SQL 문제 풀기 ( support by 프로그래머스)
 * https://school.programmers.co.kr/learn/courses/30/parts/17042
